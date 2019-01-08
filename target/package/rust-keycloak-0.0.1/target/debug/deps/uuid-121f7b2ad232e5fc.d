@@ -1,0 +1,14 @@
+/home/ies/Desktop/rust/projects/rust-keycloak/target/package/rust-keycloak-0.0.1/target/debug/deps/libuuid-121f7b2ad232e5fc.rlib: /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/lib.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/adapter/mod.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/adapter/core_support/mod.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/parser/mod.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/parser/core_support.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/parser/std_support.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/prelude.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/core_support.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/std_support.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/v4.rs
+
+/home/ies/Desktop/rust/projects/rust-keycloak/target/package/rust-keycloak-0.0.1/target/debug/deps/uuid-121f7b2ad232e5fc.d: /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/lib.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/adapter/mod.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/adapter/core_support/mod.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/parser/mod.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/parser/core_support.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/parser/std_support.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/prelude.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/core_support.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/std_support.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/v4.rs
+
+/home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/lib.rs:
+/home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/adapter/mod.rs:
+/home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/adapter/core_support/mod.rs:
+/home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/parser/mod.rs:
+/home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/parser/core_support.rs:
+/home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/parser/std_support.rs:
+/home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/prelude.rs:
+/home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/core_support.rs:
+/home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/std_support.rs:
+/home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.7.1/src/v4.rs:

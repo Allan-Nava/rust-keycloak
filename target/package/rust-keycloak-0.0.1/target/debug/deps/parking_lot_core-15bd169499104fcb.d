@@ -1,0 +1,10 @@
+/home/ies/Desktop/rust/projects/rust-keycloak/target/package/rust-keycloak-0.0.1/target/debug/deps/libparking_lot_core-15bd169499104fcb.rlib: /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/lib.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/thread_parker/unix.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/parking_lot.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/spinwait.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/util.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/word_lock.rs
+
+/home/ies/Desktop/rust/projects/rust-keycloak/target/package/rust-keycloak-0.0.1/target/debug/deps/parking_lot_core-15bd169499104fcb.d: /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/lib.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/thread_parker/unix.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/parking_lot.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/spinwait.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/util.rs /home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/word_lock.rs
+
+/home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/lib.rs:
+/home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/thread_parker/unix.rs:
+/home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/parking_lot.rs:
+/home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/spinwait.rs:
+/home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/util.rs:
+/home/ies/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/word_lock.rs:

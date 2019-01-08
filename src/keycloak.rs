@@ -19,7 +19,7 @@ pub struct OpenId {
 
 
 impl OpenId {
-    
+
         pub fn well_known (base_url: &str,realm: &str) -> String {
 
             let url = urls::OPENID_URLS.url_well_known.replace("{realm-name}",realm);
@@ -87,7 +87,7 @@ impl Admin {
                     });
 
         let path = base_url.to_owned()+&url.to_owned();
-        let mut res = admin::payload_bearer_request_status(&path,payload,token);
+        let res = admin::payload_bearer_request_status(&path,payload,token);
 
         let user_created = res.to_string();
         return "Creation of user: ".to_string() +&user_created
