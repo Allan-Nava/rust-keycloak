@@ -1,6 +1,5 @@
 #![deny(warnings)]
 
-use serde::{Deserialize, Serialize};
 use reqwest::header::{HeaderValue, CONTENT_TYPE};
 
 #[derive(Debug,Serialize, Deserialize)]
